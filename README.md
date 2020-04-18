@@ -35,8 +35,9 @@ MessageKit
 
 
 Haptico
-
 创建该库是为了使 iOS 触觉反馈生成器易于所有人使用。它支持预定义的反馈（成功，警告，错误），三个级别的影响通知，甚至支持开发人员可以使用特殊字符串进行编程的自定义模式。
+
+• https://github.com/iSapozhnik/Haptico
 
 
 BulletinBoard
@@ -61,7 +62,7 @@ WaterDrops
 Gradients
 该库包含 180 多种吸引人的渐变，您可以将它们用于控件和应用程序背景。还可以通过简单地沿渐变方向传递颜色数组来轻松创建新的自定义渐变。
 
-https://github.com/Gradients/Gradients
+• https://github.com/Gradients/Gradients
 
 DynamicColor
 该库提供了许多功能强大的方法来轻松使用和操纵颜色。
@@ -80,7 +81,7 @@ DynamicColor
 Comets
 这个库使用 CAEmitterLayer 和 CAEmitterCell 实现了流星效果。它可以用作很酷的启动屏幕或加载页面。
 
-https://github.com/cruisediary/Comets
+• https://github.com/cruisediary/Comets
 
 
 /**
@@ -94,12 +95,13 @@ WhatsNewKit
 WhatNewKit是每个应用程序的必备工具！它向用户显示了更改日志和新的应用程序功能，并带有少量的精美图形。该库以一种智能的方式开发，仅在更新后用户首次打开该应用程序时才会显示屏幕。
 布局，主题，内容模式和动画是完全可自定义的，并且还支持触觉反馈。
 
-https://github.com/SvenTiigi/WhatsNewKit
+• https://github.com/SvenTiigi/WhatsNewKit
 
 
 BadgeHub
 您可以使用这个小库在应用程序的任何视图上快速添加通知 badge 图像。
 配置，用法，自定义和动画非常容易实现，您只需要几行代码就可以使它们工作。
+
 • https://github.com/jogendra/BadgeHub
 
 
