@@ -38,8 +38,11 @@ Haptico
 
 创建该库是为了使 iOS 触觉反馈生成器易于所有人使用。它支持预定义的反馈（成功，警告，错误），三个级别的影响通知，甚至支持开发人员可以使用特殊字符串进行编程的自定义模式。
 
-https://github.com/iSapozhnik/Haptico
-https://mmbiz.qpic.cn/mmbiz_png/3QD99b9DjVHAdHicQaYuwSmiaxDKOoOuRbFZiad7wp3ibO9kD6BnYlHQO0rU290efrzD36Az7YMvrQVXMZgA3ecPmA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1
+
+BulletinBoard
+BulletinBoard 是一个iOS库，可创建显示在屏幕底部的卡片视图。它支持诸如 VoiceOver 之类的辅助功能。它对于机载屏幕或初始配置也看起来不错（仅出于这个原因，我在自己的一个应用中使用了它）。
+• https://github.com/alexaubry/BulletinBoard
+
 
 
 /**
@@ -60,8 +63,62 @@ Gradients
 
 https://github.com/Gradients/Gradients
 
+DynamicColor
+该库提供了许多功能强大的方法来轻松使用和操纵颜色。
+首先，您需要从十六进制或RGB值开始创建新颜色。颜色准备好后，您可以：
+• 变暗变亮
+• 饱和，去饱和和灰度
+• 调整色调并补充
+• 色调和阴影
+• 倒置
+• 混合
+• 制作渐变
+
+• https://github.com/yannickl/DynamicColor
+
 
 Comets
 这个库使用 CAEmitterLayer 和 CAEmitterCell 实现了流星效果。它可以用作很酷的启动屏幕或加载页面。
 
 https://github.com/cruisediary/Comets
+
+
+/**
+*
+功能框架
+*
+**/
+
+
+WhatsNewKit
+WhatNewKit是每个应用程序的必备工具！它向用户显示了更改日志和新的应用程序功能，并带有少量的精美图形。该库以一种智能的方式开发，仅在更新后用户首次打开该应用程序时才会显示屏幕。
+布局，主题，内容模式和动画是完全可自定义的，并且还支持触觉反馈。
+
+https://github.com/SvenTiigi/WhatsNewKit
+
+
+BadgeHub
+您可以使用这个小库在应用程序的任何视图上快速添加通知 badge 图像。
+配置，用法，自定义和动画非常容易实现，您只需要几行代码就可以使它们工作。
+• https://github.com/jogendra/BadgeHub
+
+
+SPPermission
+该库允许您以最小的样式显示优雅的 UI 对话框，以向用户请求不同的权限。
+当前支持的权限是：
+• 相机
+• 照片库
+• 通知
+• 位置
+• 麦克风
+• 日历
+• 联络人
+• 提醒
+• 运动
+• 媒体库
+• Speech
+
+• https://github.com/ivanvorobei/SPPermission
+
+
+
